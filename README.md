@@ -49,7 +49,7 @@ I hold a dual Bachelor's degree in Computer Science from University of Greenwich
 
 
 Cheers to coding adventures and building great things together! 🚀
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAlaa3&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Alaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAlaa3&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Mohamed Alaa" /> </p>
 
 
 
