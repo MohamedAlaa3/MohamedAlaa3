@@ -1,4 +1,3 @@
-<!-- [![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=250)](https://github.com/Ahmed-Mohmed-Sakr/Ahmed-Mohmed-Sakr) -->
 
 <h1 align="center">🚀 Hey there! I'm Mohamed Alaa </h1>
 <h3 align="center">A passionate Software Engineer | MSA Graduate </h3>
