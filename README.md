@@ -1,6 +1,6 @@
 
 <h1 align="center">🚀 Hey there! I'm Mohamed Alaa </h1>
-<h3 align="center">A passionate Software Engineer | MSA Graduate </h3>
+<h3 align="center">Software Engineer @ Beshara Group | MSA Graduate </h3>
 
 
 <h3 align="center">Welcome to my GitHub repository, where code meets creativity!</h3>
